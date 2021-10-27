@@ -8,7 +8,7 @@ public class HelloRestController {
 	
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Hello fromCode pipeline - v1";
+		return "Hello fromCode beefline - v2";
 	}
 
 }
